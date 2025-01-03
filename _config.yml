@@ -6,7 +6,6 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Kaouther
 middle_name:
 last_name: Messaoud
-email: kaouther.messaoudbenamor@epfl.ch
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Kaouther Messaoud's personal webpage..
 footer_text: >
@@ -67,8 +66,6 @@ serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: KaoutherM
-linkedin_username: kaoutharmessaoud
-scholar_userid: X0teZIAAAAAJ
 contact_note: >
   Preferably contact me via email.
 
