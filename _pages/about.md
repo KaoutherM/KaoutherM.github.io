@@ -20,7 +20,6 @@ social: false # includes social icons at the bottom of the page
 ---
 
 [//]: # "Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder."
-
 I am a PostDoctoral Researcher at the [VITA](https://www.epfl.ch/labs/vita/) lab at [EPFL](https://www.epfl.ch/en/) with [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en). My research interests include deep learning and computer vision for autonomous vehicles. I have experience in representation learning and cross-domain generalization, and more recently, I'm growing an interest in video understanding.
 
 I did a PhD about Deep Learning for Motion Prediction at INRIA Paris and got my degree from Sorbonne University, France, in 2021.
