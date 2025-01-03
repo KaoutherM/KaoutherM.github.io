@@ -15,15 +15,19 @@
       "region": "Vaud"
     }
   },
-  "work": [
+  "Research Experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "VITA Lab, EPFL | Valeo AI",
+      "position": "Postdoctoral Researcher, Representation Learning, Multi-Modality and Generalization",
+      "startDate": "2022-04-15",
+      "summary": "Building SOTA transformer‑based frameworks for multi-modal motion prediction using representation learning; self-distillation and masked reconstruction and developed cross-domain generalization techniques, parameter efficient fine-tuning strategies, and robustness measures."
+    },
+    {
+      "name": "ASTRA Lab, INRIA Paris",
+      "position": "Postdoctoral Researcher, Trajectory Prediction and Planning",
+      "startDate": "2021-07-01",
+      "endDate": "2022-04-14",
+      "summary": "Integrated spatio-temporal transformer models for trajectory prediction and planning in dynamic environments."
     }
   ],
   "volunteer": [
