@@ -49,7 +49,7 @@
       "institution": "Sorbonne University - INRIA Paris",
       "location": "Paris, France",
       "area": "Deep Learning for Motion Prediction",
-      "studyType": "PhD",
+      "studyType": "PhD Degree",
       "startDate": "2017-10-01",
       "endDate": "2021-06-30"
     },
@@ -57,7 +57,7 @@
       "institution": "École Polytechnique de Tunisie, Top engineering school in Tunisia",
       "location": "Tunis, Tunisia",
       "area": "Computer Science and Electrical Engineering",
-      "studyType": "Engineering",
+      "studyType": "Engineering Studies",
       "startDate": "2012-09-01",
       "endDate": "2015-06-30"
     },
@@ -105,25 +105,33 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "PerReg+: Generalizable Trajectory Prediction using Representation Learning",
+      "publisher": "Under Review",
+      "summary": "Designed and implemented PerReg+, an advanced trajectory prediction model integrating Dual-Level Representation Learning with Self-Distillation and Masked Reconstruction to capture global context and granular details."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "UniTraj: Unified Framework for Cross-Dataset Prediction",
+      "publisher": "ECCV 2024",
+      "url": "https://arxiv.org/abs/2403.15098",
+      "summary": "UniTraj: a framework that harmonizes diverse datasets, models, and evaluation metrics. It benchmarked various prediction models across multiple autonomous vehicle datasets, providing critical performance insights on prediction models’ cross-dataset generalizability and dataset characteristics and achieved state-of-the-art results on the nuScenes dataset by enhancing data diversity and scalability."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Forecast-PEFT: Efficient Fine-Tuning for Motion Prediction",
+      "publisher": "Under Review",
+      "url": "https://arxiv.org/abs/2407.19564",
+      "summary": "Designed Forecast-PEFT, a fine-tuning strategy significantly reducing training costs by freezing most model parameters and leveraging prompts and adapters. Enhanced prediction accuracy by up to 9.6% compared to conventional methods, achieving state-of-the-art efficiency with only 17% of the trainable parameters."
+    },
+    {
+      "name": "Manipulating Trajectory Prediction with Backdoors",
+      "publisher": "Under Review",
+      "url": "https://arxiv.org/pdf/2312.13863",
+      "summary": "Identified vulnerabilities in motion prediction models to backdoor attacks and developed a defense mechanism using social attention to detect and mitigate abnormal agent influence."
+    },
+    {
+      "name": "Social-Transmotion: Multi-Modal Human Motion Prediction",
+      "publisher": "ICLR 2024",
+      "url": "https://openreview.net/pdf?id=SQpnEfv9WH",
+      "summary": "Designed Social-Transmotion, a transformer-based model that integrates diverse multimodal visual cues and employed masking techniques to ensure robustness against missing cues and validated on multiple datasets."
     }
   ],
   "skills": [
@@ -131,24 +139,13 @@
       "name": "Machine Learning/Deep Learning",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PyTorch",
-        "TensorFlow",
-        "Keras",
-        "Scikit-learn",
-        "OpenCV"
-      ]
+      "keywords": ["PyTorch", "TensorFlow", "Keras", "Scikit-learn", "OpenCV"]
     },
     {
       "name": "Tools",
-        "level": "Intermediate",
-        "icon": "fa-solid fa-tools",
-        "keywords": [
-          "Git",
-          "Docker",
-          "Jupyter",
-          "PyCharm"
-      ]
+      "level": "Intermediate",
+      "icon": "fa-solid fa-tools",
+      "keywords": ["Git", "Docker", "Jupyter", "PyCharm"]
     }
   ],
   "languages": [
