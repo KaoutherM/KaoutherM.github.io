@@ -49,7 +49,7 @@ layout: default
     {% endif %}
 
     <!-- Latest posts -->
-    {% if site.latest_posts.enabled %}
+    {% if page.posts and site.latest_posts.enabled %}
       <h2>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
       </h2>
@@ -74,7 +74,7 @@ layout: default
     {% endif %}
 
     {% if site.newsletter.enabled and site.footer_fixed %}
-      {% include newsletter.liquid center=true %}
+      {% include scripts/newsletter.liquid center=true %}
     {% endif %}
   </article>
 </div>
