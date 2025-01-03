@@ -17,95 +17,90 @@
   },
   "experience": [
     {
-      "name": "VITA Lab, EPFL | Valeo AI",
+      "name": "VITA Lab, EPFL (Switzerland) | Valeo AI",
       "position": "Postdoctoral Researcher, Representation Learning, Multi-Modality and Generalization",
       "startDate": "2022-04-15",
-      "summary": "Building SOTA transformer‑based frameworks for multi-modal motion prediction using representation learning; self-distillation and masked reconstruction and developed cross-domain generalization techniques, parameter efficient fine-tuning strategies, and robustness measures."
+      "summary": "Built SOTA transformer‑based frameworks for multi-modal motion prediction using representation learning; self-distillation and masked reconstruction and developed cross-domain generalization techniques, parameter efficient fine-tuning strategies, and robustness measures."
     },
     {
-      "name": "ASTRA Lab, INRIA Paris",
+      "name": "ASTRA Lab, INRIA (Paris)",
       "position": "Postdoctoral Researcher, Trajectory Prediction and Planning",
       "startDate": "2021-07-01",
       "endDate": "2022-04-14",
       "summary": "Integrated spatio-temporal transformer models for trajectory prediction and planning in dynamic environments."
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "LISA Lab, UCSD (USA)",
+      "position": "Visiting Researcher, Context-based Trajectory Prediction for Autonomous Driving",
+      "startDate": "2020-01-01",
+      "endDate": "2020-05-31",
+      "summary": "Proposed an approach using MHA and a joint representation of the static scene latent features and surrounding agents and Achieved second place in the nuScenes trajectory prediction challenge with the MHA-JAM model."
+    },
+    {
+      "name": "RITS Lab, INRIA $|$ Sorbonne University",
+      "position": "Ph.D. Researcher, Attention-based Trajectory Prediction for Autonomous Driving",
+      "startDate": "2017-10-01",
+      "endDate": "2021-06-30",
+      "summary": "Explored fundamental challenges in deep learning-based motion prediction and interaction dynamics within complex environments, emphasizing multi-modal generation and physical feasibility."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Sorbonne University - INRIA Paris",
+      "location": "Paris, France",
+      "area": "Deep Learning for Motion Prediction",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2017-10-01",
+      "endDate": "2021-06-30"
+    },
+    {
+      "institution": "École Polytechnique de Tunisie, Top engineering school in Tunisia",
+      "location": "Tunis, Tunisia",
+      "area": "Computer Science and Electrical Engineering",
+      "studyType": "Engineering",
+      "startDate": "2012-09-01",
+      "endDate": "2015-06-30"
+    },
+    {
+      "institution": "Sfax Preparatory Engineering Institute",
+      "location": "Sfax, Tunisia",
+      "area": "Fundamental Mathematics and Physics",
+      "studyType": "Preparatory Classes",
+      "startDate": "2010-09-01",
+      "endDate": "2012-06-30"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "George N. Saridis Best Transactions Paper Award of The IEEE TIV",
+      "date": "2023",
+      "url": "https://ieee-itss.org/pub/t-its/t-its-paper-award-history/"
+    },
+    {
+      "title": "2nd Position Award, ICRA 2020 Prediction Challenge",
+      "date": "2020",
+      "url": "https://www.nuscenes.org/prediction?externalData=all&mapData=all&modalities=Any"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Self-leadership",
+      "date": "2024",
+      "issuer": "EPFL",
+      "url": "https://memento.epfl.ch/event/self-leadership-4/",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "AgilePM Project Management Certification",
+      "date": "2023",
+      "issuer": "APMG International",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Essential Management Skills",
+      "date": "2023",
+      "issuer": "EPFL",
       "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -133,22 +128,32 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Machine Learning/Deep Learning",
+      "level": "Expert",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "OpenCV"
+      ]
+    },
+    {
+      "name": "Tools",
+        "level": "Intermediate",
+        "icon": "fa-solid fa-tools",
+        "keywords": [
+          "Git",
+          "Docker",
+          "Jupyter",
+          "PyCharm"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Arabic",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -156,42 +161,23 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
+    },
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "language": "French",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Alexandre Alahi",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "He is my current PI at EPFL. He is an expert in computer vision and deep learning for autonomous driving, and has published numerous papers in top-tier conferences."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Fawzi Nashashibi",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "reference": "He was my PhD. advisor at INRIA Paris, head of ASTRA team."
     }
   ]
 }
