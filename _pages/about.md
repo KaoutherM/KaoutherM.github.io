@@ -21,9 +21,9 @@ social: false # includes social icons at the bottom of the page
 
 [//]: # "Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder."
 
-I am a PostDoctoral Researcher at the [VITA](https://www.epfl.ch/labs/vita/) lab at [EPFL](https://www.epfl.ch/en/) with [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en). My research interests include deep learning and computer vision for autonomous vehicles. I have experience in representation learning and cross-domain generalization, and more recently, I'm growing an interest in video understanding.
+Welcome! I am a Postdoctoral Researcher at the [VITA](https://www.epfl.ch/labs/vita/) Lab, [EPFL](https://www.epfl.ch/en/), working under the supervision of [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en). My research focuses on leveraging deep learning and multimodal data to advance autonomous vehicle technologies. I specialize in representation learning, cross-domain generalization, and am increasingly exploring the fascinating field of video understanding.
 
-I did a PhD about Deep Learning for Motion Prediction at the RITS lab at INRIA Paris and got my degree from Sorbonne University, France, in 2021.
+I earned my Ph.D. in 2021 from Sorbonne University, France, where I conducted research on Deep Learning for Motion Prediction at the [RITS Lab](https://team.inria.fr/rits/), [INRIA Paris](https://www.inria.fr/en/inria-paris-centre).
 
 [//]: # "Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically."
 [//]: # "Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them."
