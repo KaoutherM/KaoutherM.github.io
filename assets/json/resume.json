@@ -87,20 +87,17 @@
       "name": "Self-leadership",
       "date": "2024",
       "issuer": "EPFL",
-      "url": "https://memento.epfl.ch/event/self-leadership-4/",
-      "icon": "fa-solid fa-location-dot"
+      "url": "https://memento.epfl.ch/event/self-leadership-4/"
     },
     {
       "name": "AgilePM Project Management Certification",
       "date": "2023",
-      "issuer": "APMG International",
-      "icon": "fa-solid fa-tag"
+      "issuer": "APMG International"
     },
     {
       "name": "Essential Management Skills",
       "date": "2023",
-      "issuer": "EPFL",
-      "icon": "fa-solid fa-envelope"
+      "issuer": "EPFL"
     }
   ],
   "publications": [

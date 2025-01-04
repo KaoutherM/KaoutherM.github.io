@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented UniTraj Paper at ECCV 2024! It was an incredible opportunity to share our work and engage with researchers from around the world.
+Presented UniTraj Poster at ECCV 2024! It was an incredible opportunity to share our work and engage with researchers from around the world.
