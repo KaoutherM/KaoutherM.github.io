@@ -17,13 +17,15 @@
   },
   "experience": [
     {
-      "name": "VITA Lab, EPFL (Switzerland) | Valeo AI",
+      "name": "VITA Lab, EPFL | Valeo AI",
+      "location": "Lausanne, Switzerland",
       "position": "Postdoctoral Researcher, Representation Learning, Multi-Modality and Generalization",
       "startDate": "2022-04-15",
       "summary": "Built SOTA transformer‑based frameworks for multi-modal motion prediction using representation learning; self-distillation and masked reconstruction and developed cross-domain generalization techniques, parameter efficient fine-tuning strategies, and robustness measures."
     },
     {
-      "name": "ASTRA Lab, INRIA (Paris)",
+      "name": "ASTRA Lab, INRIA",
+      "location": "Paris, France",
       "position": "Postdoctoral Researcher, Trajectory Prediction and Planning",
       "startDate": "2021-07-01",
       "endDate": "2022-04-14",
@@ -31,6 +33,7 @@
     },
     {
       "name": "LISA Lab, UCSD (USA)",
+      "location": "San Diego, California, USA",
       "position": "Visiting Researcher, Context-based Trajectory Prediction for Autonomous Driving",
       "startDate": "2020-01-01",
       "endDate": "2020-05-31",
@@ -38,6 +41,7 @@
     },
     {
       "name": "RITS Lab, INRIA $|$ Sorbonne University",
+      "location": "Knoxville, Tennessee, USA",
       "position": "Ph.D. Researcher, Attention-based Trajectory Prediction for Autonomous Driving",
       "startDate": "2017-10-01",
       "endDate": "2021-06-30",
