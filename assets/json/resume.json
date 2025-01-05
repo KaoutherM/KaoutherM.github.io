@@ -107,13 +107,12 @@
   "publications": [
     {
       "name": "PerReg+: Generalizable Trajectory Prediction using Representation Learning",
-      "date": "2025",
       "publisher": "Under Review",
       "summary": "Designed and implemented PerReg+, an advanced trajectory prediction model integrating Dual-Level Representation Learning with Self-Distillation and Masked Reconstruction to capture global context and granular details."
     },
     {
       "name": "UniTraj: Unified Framework for Cross-Dataset Prediction",
-      "date": "2024-03-22",
+      "releaseDate": "2024-03-22",
       "publisher": "ECCV 2024",
       "url": "https://arxiv.org/abs/2403.15098",
       "summary": "UniTraj: a framework that harmonizes diverse datasets, models, and evaluation metrics. It benchmarked various prediction models across multiple autonomous vehicle datasets, providing critical performance insights on prediction models’ cross-dataset generalizability and dataset characteristics and achieved state-of-the-art results on the nuScenes dataset by enhancing data diversity and scalability."
@@ -121,21 +120,21 @@
     {
       "name": "Forecast-PEFT: Efficient Fine-Tuning for Motion Prediction",
       "publisher": "Under Review",
-      "date": "2024-07-28",
+      "releaseDate": "2024-07-28",
       "url": "https://arxiv.org/abs/2407.19564",
       "summary": "Designed Forecast-PEFT, a fine-tuning strategy significantly reducing training costs by freezing most model parameters and leveraging prompts and adapters. Enhanced prediction accuracy by up to 9.6% compared to conventional methods, achieving state-of-the-art efficiency with only 17% of the trainable parameters."
     },
     {
       "name": "Manipulating Trajectory Prediction with Backdoors",
       "publisher": "Under Review",
-      "date": "2023-12-21",
+      "releaseDate": "2023-12-21",
       "url": "https://arxiv.org/pdf/2312.13863",
       "summary": "Identified vulnerabilities in motion prediction models to backdoor attacks and developed a defense mechanism using social attention to detect and mitigate abnormal agent influence."
     },
     {
       "name": "Social-Transmotion: Multi-Modal Human Motion Prediction",
       "publisher": "ICLR 2024",
-      "date": "2023-12-26",
+      "releaseDate": "2023-12-26",
       "url": "https://openreview.net/pdf?id=SQpnEfv9WH",
       "summary": "Designed Social-Transmotion, a transformer-based model that integrates diverse multimodal visual cues and employed masking techniques to ensure robustness against missing cues and validated on multiple datasets."
     }
