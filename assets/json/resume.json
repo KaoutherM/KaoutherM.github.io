@@ -174,12 +174,12 @@
     {
       "name": "Professor Alexandre Alahi",
       "icon": "fa-solid fa-laptop",
-      "reference": "He is my current PI at EPFL. He is an expert in computer vision and deep learning for autonomous driving, and has published numerous papers in top-tier conferences."
+      "reference": "My current research supervisor at EPFL, he is a leading expert in computer vision and deep learning, particularly in applications for autonomous driving."
     },
     {
       "name": "Professor Fawzi Nashashibi",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "He was my PhD. advisor at INRIA Paris, head of ASTRA team."
+      "reference": "My PhD advisor at INRIA Paris, he holds an HDR (Habilitation à Diriger des Recherches) and led the ASTRA team. He is a distinguished researcher known for his significant contributions to intelligent transportation systems and robotics."
     }
   ]
 }
