@@ -107,7 +107,9 @@
   "publications": [
     {
       "name": "PerReg+: Generalizable Trajectory Prediction using Representation Learning",
+      "releaseDate": "2025-01-08",
       "publisher": "Under Review",
+      "url": "https://arxiv.org/abs/2501.04815",
       "summary": "Designed and implemented PerReg+, an advanced trajectory prediction model integrating Dual-Level Representation Learning with Self-Distillation and Masked Reconstruction to capture global context and granular details."
     },
     {
