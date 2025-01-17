@@ -21,7 +21,7 @@
       "location": "Lausanne, Switzerland",
       "position": "Postdoctoral Researcher, Representation Learning, Multi-Modality and Generalization",
       "startDate": "2022-04-15",
-      "summary": "Built SOTA transformer‑based frameworks for multi-modal motion prediction using representation learning; self-distillation and masked reconstruction and developed cross-domain generalization techniques, parameter efficient fine-tuning strategies, and robustness measures."
+      "summary": "Build SOTA transformer‑based frameworks for multi-modal motion prediction using representation learning; self-distillation and masked reconstruction and develop cross-domain generalization techniques, parameter efficient fine-tuning strategies, and robustness measures."
     },
     {
       "name": "ASTRA Lab, INRIA",
@@ -37,10 +37,10 @@
       "position": "Visiting Researcher, Context-based Trajectory Prediction for Autonomous Driving",
       "startDate": "2020-01-01",
       "endDate": "2020-05-31",
-      "summary": "Proposed an approach using MHA and a joint representation of the static scene latent features and surrounding agents and Achieved second place in the nuScenes trajectory prediction challenge with the MHA-JAM model."
+      "summary": "Proposed an approach using Multi-Head-Attention (MHA) and a joint representation of the static scene latent features and surrounding agents and Achieved second place in the nuScenes trajectory prediction challenge with the MHA-JAM model."
     },
     {
-      "name": "RITS Lab, INRIA $|$ Sorbonne University",
+      "name": "RITS Lab, INRIA | Sorbonne University",
       "location": "Knoxville, Tennessee, USA",
       "position": "Ph.D. Researcher, Attention-based Trajectory Prediction for Autonomous Driving",
       "startDate": "2017-10-01",
@@ -53,7 +53,7 @@
       "institution": "Sorbonne University - INRIA Paris",
       "location": "Paris, France",
       "area": "Deep Learning for Motion Prediction",
-      "studyType": "PhD Degree",
+      "studyType": "PhD in computer science/vision",
       "startDate": "2017-10-01",
       "endDate": "2021-06-30"
     },
