@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper, "Generalizable Trajectory Prediction Using Dual-Level Representation Learning And Adaptive Prompting," has been accepted at CVPR 2025! Looking forward to presenting our work at CVPR!
+Our paper, "Generalizable Trajectory Prediction Using Dual-Level Representation Learning And Adaptive Prompting," has been accepted at CVPR 2025! 
+Looking forward to presenting our work at CVPR!
